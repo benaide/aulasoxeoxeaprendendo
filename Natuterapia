@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>NATUTERAPIA - Página Principal</title>
+		<meta charset="utf-8">
+	</head>
+
+	<body background="imagens/fundo 1.jpg">
+
+		<table border="0" width="900" align="center">
+			
+			<tr>
+				<td height="84"><a href="index.html"><img src="imagens/logo.png"></a></td>
+				<td align="right">
+					<a href="">Home</a>	| 
+					<a href="quem-somos.html">Quem Somos</a> | 
+					<a href="plantas.html">Plantas</a> | 
+					<a href="contatos.html">Contatos</a>	
+				</td>			
+			</tr>
+
+			<tr>
+				<td colspan="2"><a href="plantas.html"><img src="imagens/full banner natuterapia.jpg"></a></td>
+			</tr>
+
+
+			<tr>
+				<td colspan="2">
+					
+					<h2>Quem é a Natuterapia?</h2>
+					<p>
+						A <strong>Natuterapia</strong> foi criada para que você conheça mais sobre as propriedades e os encantos da natureza. Para saber usar a natureza de forma consciente e responsável como uma terapia para a sua vida, corpo e mente. Aqui, ensinaremos <strong>o que são</strong>, <strong>para que servem</strong>, <strong>como cultivar</strong>, <em>plantas</em>, <em>flores</em> e <em>ervas</em>. Ensinamentos que pretendem ajudar a melhorar sua qualidade de vida, equilibrando seu bem-estar fisico e psiquico.
+						Ensinaremos que a <strong>Natureza Cura</strong>.
+					</p><br>
+					<br>
+
+					<h2>Plantas, Flores e Ervas</h2>
+
+					<p>
+						<ol type="1">
+							<li>Aprenda a cultivar suas plantas para realização de chás.</li>
+							<br>
+
+							<li>Conheça o poder das plantas e seus significados</li><br> 
+
+							<li>Flores representam muito mais que enfeite, entenda o poder de algumas delas</li><br>
+						</ol>
+
+					</p>
+
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2" align="center">
+					<h4>Todos os direitos reservados</h4>
+					
+				</td>
+			</tr>
+		
+		</table>
+
+
+
+	</body>
+</html>
